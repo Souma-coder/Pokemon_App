@@ -1,3 +1,41 @@
+body {
+  font-family: Roboto, Arial;
+  background-color: #fceec8;
+}
+
+.pokemon-item {
+  background-color: deeppink;
+}
+
+.pokemon-head-logo {
+  height: 100px;
+  width: 500px;
+  margin-bottom: 10px;
+}
+
+.pokemon-card-back {
+  height: 540px;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
+.pokemon-data-image {
+  width: 195px;
+  height: 195px;
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: #fff;
+}
+
+.pokemon-type-data {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.pokemon-card {
+  background-color: rgb(222, 102, 218);
+}
+
 .App {
   text-align: center;
 }
